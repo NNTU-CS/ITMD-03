@@ -17,7 +17,7 @@
 
 Визуальное представление:
 
-<img src="exampleTemplate.png" width="550" alt="Пример">
+<img src="images/exampleTemplate.png" width="550" alt="Пример">
 
 Результат представлен в файле ```student_predictions.json```
 
